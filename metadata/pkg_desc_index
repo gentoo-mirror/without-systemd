@@ -1,3 +1,3 @@
-sys-apps/hardenedtmpfiles 0.4 0.5: A standalone utility to process systemd-style tmpfiles.d files
+sys-apps/hardenedtmpfiles 0.4 0.5.1: A standalone utility to process systemd-style tmpfiles.d files
 sys-apps/opentmpfiles 0.1.1 0.1.2 0.1.3 0.1.3-r1 0.2: A standalone utility to process systemd-style tmpfiles.d files
 virtual/tmpfiles 0-r1 0-r4: Virtual to select between different tmpfiles.d handlers
