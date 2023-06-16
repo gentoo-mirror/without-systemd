@@ -2,4 +2,4 @@ sys-apps/hardenedtmpfiles 0.4 0.5.3: A standalone utility to process systemd-sty
 sys-apps/opentmpfiles 0.1.1 0.1.2 0.1.3 0.1.3-r1 0.2: A standalone utility to process systemd-style tmpfiles.d files
 sys-fs/libudev-zero 1.0.1: Drop-in replacement for libudev intended to work with any device manager
 virtual/libudev 232-r8: Virtual for libudev providers
-virtual/tmpfiles 0-r1 0-r4: Virtual to select between different tmpfiles.d handlers
+virtual/tmpfiles 0-r1 0-r4 0-r5: Virtual to select between different tmpfiles.d handlers
