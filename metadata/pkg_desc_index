@@ -4,3 +4,4 @@ sys-fs/eudev 3.2.11-r4 3.2.11-r5 3.2.12-r1 3.2.12-r2 3.2.14 9999: Linux dynamic 
 sys-fs/libudev-zero 1.0.1 1.0.2 1.0.3: Drop-in replacement for libudev intended to work with any device manager
 virtual/libudev 232-r8 251 251-r1 251-r2: Virtual for libudev providers
 virtual/tmpfiles 0-r1 0-r4 0-r5: Virtual to select between different tmpfiles.d handlers
+virtual/udev 217-r7: Virtual to select between different udev daemon providers
