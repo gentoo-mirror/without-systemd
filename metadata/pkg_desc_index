@@ -1,5 +1,5 @@
 sys-apps/hardenedtmpfiles 0.4 0.5.3 0.5.3-r1: A standalone utility to process systemd-style tmpfiles.d files
-sys-apps/opentmpfiles 0.1.1 0.1.2 0.1.3 0.1.3-r1 0.2: A standalone utility to process systemd-style tmpfiles.d files
+sys-apps/opentmpfiles 0.2-r1: A standalone utility to process systemd-style tmpfiles.d files
 sys-apps/tmpfilesd 0.1.0 0.1.1 0.1.2 9999: systemd-tmpfiles replacement; includes support for sysvinit style enviroments
 sys-fs/eudev 3.2.11-r4 3.2.11-r5 3.2.12-r1 3.2.12-r2 3.2.14 9999: Linux dynamic and persistent device naming support (aka userspace devfs)
 sys-fs/libudev-zero 1.0.1 1.0.2 1.0.3: Drop-in replacement for libudev intended to work with any device manager
